@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "790982154828",
+    "firebase_url": "https://sweda-20569.firebaseio.com",
+    "project_id": "sweda-20569",
+    "storage_bucket": "sweda-20569.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790982154828:android:25493846bf1e953e08f2e9",
+        "android_client_info": {
+          "package_name": "com.example.singhkshitiz.letschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790982154828-labok2j2rat3bksjkhdjvspl3abepr5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9UoG3tLX6TQ7-hOEARSeK23zCUA4CqVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790982154828-labok2j2rat3bksjkhdjvspl3abepr5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790982154828:android:ab108effaf9570eb08f2e9",
+        "android_client_info": {
+          "package_name": "com.swiedamarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790982154828-i9hjrj92e0rm4v6c17472m211671mioe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swiedamarket",
+            "certificate_hash": "1e48bd5f580934d88f6151940571dc70fdf8b89a"
+          }
+        },
+        {
+          "client_id": "790982154828-labok2j2rat3bksjkhdjvspl3abepr5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9UoG3tLX6TQ7-hOEARSeK23zCUA4CqVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790982154828-labok2j2rat3bksjkhdjvspl3abepr5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
